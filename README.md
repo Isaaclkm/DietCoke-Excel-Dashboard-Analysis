@@ -1,7 +1,58 @@
-# DietCoke-Excel-Dashboard-Analysis
-Project Overview
-This repository contains a comprehensive sales analysis of Diet Coke across key American retailers for the fiscal year 2021. The analysis focuses on identifying seasonal trends, regional hot spots, and overall profitability to drive data-driven decision-making.🚀 Key InsightsRevenue Growth: Total sales reached $1.48M with a steady 34.24% operating margin.Peak Seasonality: Sales surge significantly in July-August and December, likely driven by summer temperatures and holiday demand.Geographic Dominance: Highest units sold are concentrated in Texas, California, Florida, and New York.📊 Dashboard Components1. Key Performance Indicators (KPIs)MetricValueDescriptionTotal Sales$1,481,425Aggregate revenue for the year 2021.Total Units Sold3,001,500Total volume distributed across all retailers.Operating Profit$494,318Net profit after operating expenses.Avg. Margin34.24%Efficiency of the Diet Coke product line.2. Temporal Analysis (Monthly Sales)The analysis shows a clear upward trend starting in May, peaking at over $180k/month in August and December. This suggests that marketing campaigns are most effective when aligned with Q3 and Q4 cycles.3. Geographic Market ShareThe dashboard utilizes a heatmap to visualize "Units Sold" across the US:Primary Hubs: West (CA), South (TX), and Southeast (FL).Growth Opportunities: Central and Midwest states show lower volume, representing potential areas for market expansion.🛠️ Tech Stack & ToolsVisualization Tool: [e.g., Power BI / Excel / Tableau]Mapping Engine: Bing Maps / GeoNamesData Source: Internal Sales Records (2021)Focus Brand: Diet Coke📂 Repository StructureBash├── data/               # Raw and processed datasets (CSV/XLSX)
-├── images/             # Screenshots of the dashboard
-├── notebooks/          # Exploratory Data Analysis (if applicable)
-└── README.md           # Project documentation
-📝 ConclusionThe data indicates that Diet Coke maintains a healthy profit margin and strong brand loyalty in high-population states. Future strategies should focus on stabilizing sales in the "lull" period of February through April through targeted retail promotions.
+# 📊 Coca-Cola Sales Dashboard (Excel)
+
+An interactive Excel dashboard analyzing Coca-Cola sales performance across key American retailers.  
+This project highlights my skills in **data analysis, dashboard design, and business insights using Excel**.
+
+---
+
+## 📌 Project Overview
+
+This dashboard provides a high-level and detailed view of Coca-Cola’s sales performance in the U.S. market.  
+Users can explore trends across **time, region, retailer, and beverage brand** through interactive filters and visualizations.
+
+The main objective is to demonstrate how Excel can be used as a powerful tool for **business intelligence and decision-making**.
+
+---
+## 🖼 Dashboard Preview
+
+![Dashboard Preview]
+<img width="1110" height="536" alt="image" src="https://github.com/user-attachments/assets/596adbb2-5251-49ab-b235-ff7a3fb0bdf3" />
+
+## ✨ Features
+
+- Interactive slicers for:
+  - Retailer
+  - Region
+  - Beverage Brand
+  - Invoice Date (Monthly)
+- Key Performance Indicators (KPIs):
+  - Total Sales
+  - Total Units Sold
+  - Total Operating Profit
+  - Average Operating Margin
+- Monthly sales trend visualization
+- U.S. map showing units sold by state
+- Professional, executive-style dashboard layout
+
+## 🛠 Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers & Timelines
+- Data Cleaning & Transformation
+- KPI Design
+- Dashboard & UX Design
+
+
+
+## 📈 Key Insights
+
+- Identifies top-performing regions and retailers
+- Reveals seasonal sales patterns
+- Highlights profitability trends across time
+- Enables quick comparison between beverage brands
+
+---
+
+
+
